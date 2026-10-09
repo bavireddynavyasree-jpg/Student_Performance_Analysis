@@ -120,4 +120,4 @@ During this project, I learned how to load CSV files, work with Pandas DataFrame
 
 The GitHub repository contains the project notebook, dataset, processed dataset, and README file.
 
-**Repository URL:** Add your GitHub repository link here after confirming the final repository location.
+**Repository URL:**https://github.com/bavireddynavyasree-jpg/Student_Performance_Analysis
